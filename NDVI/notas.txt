@@ -1,0 +1,3 @@
+iiiF (internationa image interoperability framework)
+cantaloupe image server
+pylibjpeg
